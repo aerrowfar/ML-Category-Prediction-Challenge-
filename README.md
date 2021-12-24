@@ -2,12 +2,12 @@ The project data is from Kickstarter. The goal of this exercise is to be able to
 
 The raw data set is composed of 323750 rows and the following columns:
 
-name  : the name of the project
-goal : the amount of money claimed for the project
-sub_category : the sub_category of the project. 
-launched : date launched
-deadline : deadline for crowdfunding
-main_category : the main category of the project (this is the target).
+name  : the name of the project\
+goal : the amount of money claimed for the project\
+sub_category : the sub_category of the project. \
+launched : date launched\
+deadline : deadline for crowdfunding\
+main_category : the main category of the project (this is the target).\
 
 
 The goal of the challenge is to classify each project in its right main_category.
